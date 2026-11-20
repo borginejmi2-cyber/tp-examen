@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tp-examen</string>
+    <string name="hint_filtrer_contacts">Filtrer les contacts…</string>
+</resources>
